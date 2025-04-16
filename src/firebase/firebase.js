@@ -2,7 +2,14 @@ import {initializeApp} from 'firebase/app';
 import {getAuth} from 'firebase/auth';
 import { collection, doc, getDoc, getFirestore, onSnapshot, serverTimestamp, setDoc, updateDoc, addDoc } from 'firebase/firestore';
 
- 
+ const firebaseConfig = {
+  apiKey: "AIzaSyAVOdUXgjt6DyBsvQXRs2m1rVGmiwRWujY",
+  authDomain: "chat-application-18ef8.firebaseapp.com",
+  projectId: "chat-application-18ef8",
+  storageBucket: "chat-application-18ef8.firebasestorage.app",
+  messagingSenderId: "247253665741",
+  appId: "1:247253665741:web:5bef033ef3a41228816684"
+};
 
   const app = initializeApp(firebaseConfig);
   const auth = getAuth(app);
