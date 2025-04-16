@@ -34,6 +34,7 @@ A modern real-time chat application built with React.js, Firebase, and Tailwind 
 - Node.js (v14 or higher)
 - npm or yarn
 - Firebase account
+- Add Your Respective API KEY from FIREBASE in firebase.js dile 
 
 ## 🚀 Installation and Setup
 
