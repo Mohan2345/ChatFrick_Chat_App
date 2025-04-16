@@ -107,23 +107,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Made with ❤️ by [Your Name]
-```
-
-This README provides a comprehensive overview of your ChatFrick application, highlighting its features, technologies, and setup instructions. You can customize it further by:
-
-1. Adding screenshots of your application
-2. Including your name in the acknowledgments
-3. Adding more specific features or usage instructions
-4. Including information about future development plans
-
-<Actions>
-  <Action name="Add screenshots to README" description="Add screenshots of the app to showcase its UI" />
-  <Action name="Create a features section" description="Expand the features section with more details" />
-  <Action name="Add setup tutorial" description="Create a detailed setup tutorial with Firebase configuration" />
-  <Action name="Create contributing guidelines" description="Develop more detailed contributing guidelines" />
-  <Action name="Add API documentation" description="Document the Firebase API integration" />
-</Actions>
-
-```
+Made ❤️ by Deepak Kumar Bastia 
+ 
 
