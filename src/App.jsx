@@ -7,7 +7,7 @@ import Navlinks from "./components/Navlinks";
 import { auth } from "./firebase/firebase";
 
 
-// yejkevuerucbsjcbwehiuwe
+ 
 
 const App = () => {
   const [isLogin, setIsLogin] = useState(true);
